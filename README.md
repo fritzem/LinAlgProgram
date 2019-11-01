@@ -17,6 +17,7 @@ Arrow Keys - move
 Numpad1,2 - move on z-axis  
 [ and ] - scale object up and down  
 Shift - swap controlled object (space vector will mess this up)  
+Del - Delete currently selected object  
   
 Utility  
 F8 - space vector party (swap will break)  
