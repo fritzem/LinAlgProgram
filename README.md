@@ -1,5 +1,7 @@
 # LinAlgProgram  
 Final project for my linear algebra class, a crude '3D' renderer  
+
+Control is the executable class
   
 Basic Controls -  
 Numkeys spawn objects:  
